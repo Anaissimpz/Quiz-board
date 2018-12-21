@@ -22,8 +22,8 @@ $(document).ready(function() {
 function getScore(answers) {
     var score = 0;
 
-    answers.forEach(function(answer) {
-        if (answer === true) {
+    answers.forEach(function(answers) {
+        if (answers === true) {
             score++;
         }
     });
