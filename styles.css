@@ -1,0 +1,10 @@
+.head{
+    background-color: #dfbf9f; 
+}
+body{
+    background-image: url(../quiz-board/image/background.jpeg);
+    background-size: cover;
+}
+.qstn1{
+    background-color: #0073e6;
+}
