@@ -4,7 +4,7 @@
 body{
     background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlGpTCD4CdJKcG9Zo5pPWxj4JKekKleU3e7JVMOZmkOw8fyoaQYA);
     background-size: cover;
-    color: black;
+    color:#dfbf9f;
 }
 .qstn1, .qstn2, .qstn3, .qstn4, .qstn5{
     font-size: 120%;
