@@ -8,3 +8,7 @@ body{
 .qstn1, .qstn2, .qstn3, .qstn4, .qstn5{
     font-size: 120%;
 }
+#result{
+    color:black;
+    border: 15px solid white;
+}
