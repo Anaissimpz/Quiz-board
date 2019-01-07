@@ -8,7 +8,7 @@ Run this link: https://anaissimpz.github.io/Quiz-board/
 ## Bugs
 There is no Bugs
 ## B.D.D
-Behavior: In this website one should do a quiz about java script. There are several questions that are multiple choices that one should choose one answers among many answers accordingly,In the website You will notice instructions about the quiz which are marks,time and how much is the quiz out of. After doing the quiz one should submit the quiz by clicking on the button submit then check down below you will check the marks you have got.
+Behavior: In this website one shall pass to a login form and login to access the quiz. The quiz is about java script. There are several questions that are multiple choices that one should choose one answers among many answers accordingly,In the website You will notice instructions about the quiz which are marks,time and how much is the quiz out of. After doing the quiz one should submit the quiz by clicking on the button submit then check down below you will check the marks you have got.
 ## Technologies Used 
 * Html
 * Css
