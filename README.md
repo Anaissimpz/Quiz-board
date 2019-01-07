@@ -4,7 +4,7 @@
 #### Description
  This website is about a quiz about java script and you will have to do it and discover your marks right away
 ## Setup
-Run this link: https://anaissimpz.github.io/Quiz-board/
+Run this link:  https://anaissimpz.github.io/Quiz-board/
 ## Bugs
 There is no Bugs
 ## B.D.D
